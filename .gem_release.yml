@@ -1,0 +1,4 @@
+bump:
+  file: lib/dunkelziffer_gem_test/version.rb
+  skip_ci: true
+
