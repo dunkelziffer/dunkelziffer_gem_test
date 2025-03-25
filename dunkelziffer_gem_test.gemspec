@@ -12,11 +12,12 @@ Gem::Specification.new do |s|
   s.description = "Example description"
 
   s.metadata = {
-    "bug_tracker_uri" => "https://github.com/dunkelziffer/dunkelziffer_gem_test/issues",
-    "changelog_uri" => "https://github.com/dunkelziffer/dunkelziffer_gem_test/blob/master/CHANGELOG.md",
-    "documentation_uri" => "https://github.com/dunkelziffer/dunkelziffer_gem_test",
     "homepage_uri" => "https://github.com/dunkelziffer/dunkelziffer_gem_test",
-    "source_code_uri" => "https://github.com/dunkelziffer/dunkelziffer_gem_test"
+    "changelog_uri" => "https://github.com/dunkelziffer/dunkelziffer_gem_test/blob/main/CHANGELOG.md",
+    "bug_tracker_uri" => "https://github.com/dunkelziffer/dunkelziffer_gem_test/issues",
+    "documentation_uri" => "https://github.com/dunkelziffer/dunkelziffer_gem_test/blob/main/README.md",
+    "source_code_uri" => "https://github.com/dunkelziffer/dunkelziffer_gem_test",
+    "custom_attribute" => "a, b, c"
   }
 
   s.license = "MIT"
